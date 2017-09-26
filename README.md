@@ -2,7 +2,7 @@
 
 ## Samuel Halperin
 
-![](./tuscany.png)
+![](https://github.com/shalperin/paper-heuristic-evaluation-vr/raw/master/tuscany.png)
 Screenshot from application under test, the Tuscan Villa Demo by Oculus. (image courtesy of share.oculus.com)
 
 
@@ -246,7 +246,7 @@ Usoh, M., Catena, E., Arman, S., & Slater, M. (2000). Using presence questionnai
 
 
 
-![](./appendix1.png)
-![](./appendix2.png)
-![](./appendix3.png)
-![](./appendix3b.png)
+![](https://github.com/shalperin/paper-heuristic-evaluation-vr/raw/master/appendix1.png)
+![](https://github.com/shalperin/paper-heuristic-evaluation-vr/raw/master/appendix2.png)
+![](https://github.com/shalperin/paper-heuristic-evaluation-vr/raw/master/appendix3.png)
+![](https://github.com/shalperin/paper-heuristic-evaluation-vr/raw/master/appendix3b.png)
