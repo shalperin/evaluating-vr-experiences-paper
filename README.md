@@ -100,9 +100,9 @@ Although heuristic evaluation with only one expert is not very effective (Nielse
 |7)   Rely   on   native   skills|TD   is   conservative   in   the   sense   that   it   uses a   very   common   keyboard   and   mouse paradigm   for   navigation,   adding   only head   tracking   based   perspective   changes. (5   out   of   5)|
 |8)   Periodize   the   introduction   of   non-native interaction   paradigms.|N/A      TD   does   not   introduce   any avant-garde   interaction   paradigms.|
 |9)   Conscious   use   of   iconography|N/A   TD   does   not   have   any   interfaces   that rely   on   icons.|
-|10)   Avoid   interpenetrating   objects|10)   Avoid   interpenetrating   objects|
+|10)   Avoid   interpenetrating   objects|TD   uses   well   designed   graphics.      There   are no   obvious   signs   of   interpenetration.   (5 out   of   5)|
 |11)   Characters   should   respond   to   the viewer.|N/A   there   are   no   characters   in   TD.|
-|12)   Consistent   level   of   detail   and   texture.|TD   consistently   renders   the   environment|
+|12)   Consistent   level   of   detail   and   texture.|TD   consistently   renders   the   environment with   a   high   level   of   realism.   (5   out   of   5)|
 
 Table 2.1: Summary Heuristic Evaluation of the Tuscany Demo 
 
@@ -141,6 +141,13 @@ Two subjects were selected from colleagues at the authors coworking space.  One 
 
 The participants were put through a three minute VR experience using the ‘Tuscany Demo’ (TD) distributed with the Oculus Rift.  TD is a highly realistic audio/visual simulation of a rustic, hilltop villa by the seashore.  It features elements such as flying butterflies, a spewing fountain that makes water noise, and sailboats tacking back and forth in a bay.
 
+|Task|Time To Complete Task|
+|---|---|
+|Relax   until   you   are   comfortable   and   then look   to   your   right   and   find   the   fountain.|0:15   -   0:30|
+|Navigate   inside   the   building   and   find   the fireplace.|0:08   -   0:15|
+|Exit   the   building   and   find   the   sailboats.|0:30   -   0:32|
+|Re-enter   the   building   and   find   the balcony.|0:43   -   1:50|
+
 Table 4.1: VR navigation tasks.
 
 The participants were guided through the tasks in the table 4.1.  Originally more tasks where planned, but after the completion of the third task, at approximately 3 minutes into the demo, one participant complained of “feeling funny” so the experiment was stopped.  This breakpoint was used as the stopping point for the second user evaluation, with the second user reporting markedly less simulator sickness.  After a few minutes of break, the participant completed a simulator sickness questionnaire (Kennedy et al., 1993) and a presence questionnaire (Usoh et al., 2000).
@@ -148,11 +155,32 @@ The participants were guided through the tasks in the table 4.1.  Originally mor
 # Results and Discussion
 The tasks in this UE were navigational, and the participants were able to find each waypoint successfully.  The subject reported a moderate sense of presence, with comments about the reality of the experience, and feelings that they were in a foreign place.  However, they also experienced a significant degree of ‘stomach awareness’ and ‘dizziness’ as noted in the results of the SS questionnaire, see table 4.4 below.
 
-A question to ask in consideration of both the mean and the max values in the simulator sickness survey results is as follows:  Does the presence of a mean value towards the low end of the SS scale reflect a general system usability, or does the presence of a single high SS rating for “eye strain” or “dizziness” reflect a significant, potentially insurmountable problem?  I.e., from where do we draw a qualitative conclusion about whether the Oculus Rift and Tuscany Demo makes users sick, their general feeling that the symptoms are mild -- this was a common comment from both users, or their selection of near maximal ratings for individual symptoms?  Does it matter that the experience was generally tolerable if, for instance, eye strain becomes extremely intolerable over a short period of time?
+A question to ask in consideration of both the mean and the max values in the simulator sickness survey results is as follows:  Does the presence of a mean value towards the low end of the SS scale reflect a general system usability, or does the presence of a single high SS rating for “eye strain” or “dizziness” reflect a significant, potentially insurmountable problem?  I.e., from where do we draw a qualitative conclusion about whether the Oculus Rift and Tuscany Demo makes users sick, their general feeling that the symptoms are mild -- this was a common comment from both users, or their selection of near maximal ratings for individual symptoms? 
+ Does it matter that the experience was generally tolerable if, for instance, eye strain becomes extremely intolerable over a short period of time?
+
+|Question|Summary Insights|
+|---|---|
+|Do   novice   VR   participants   experience simulator   sickness   on   initial   use   of   the Oculus   Rift?|The   participants   experienced   mild   to moderate      SS.|
+|Do   participants   experience   ‘presence’   or the   sensation   of   inhabiting   a   virtual space?|Yes,   the   participant   experienced   a sensation   of   presence.|
+|Can   participants   find   waypoints   by navigating   using   the   immersive   interface?|The   participant   efficiently   found waypoints.|
+|Do   participants   feel   that   VR   represents   a compelling   experience?|The   participants   expressed   curiosity   about VR,   particularly   with   respect   to   touring remote   locations.|
+|Are   there   other   applications   of   VR   outside of   the   ones   represented   by   the applications   under   test?|The   participant   was   most   curious   about the   application   under   test   and applications   in   a   similar   domain.|
 
 Table 4.2  Summary Insights. The usability evaluation of the virtual reality applications was conducted to answer the questions below.
 
 The biggest usability issue with the experience, as reflected in user comments (see Table 4.3 below) was the issue with simulator sickness.  While the mean score was towards the low end of the scale, one user reported scores of 3 out of 4 for “awareness of stomach” and for “dizziness.”
+
+|Statement|Coding|
+|---|---|
+|“The   goggles   seem   a   little   grungy”|Physical   interface|
+|“I   feel   funny.”|Simulator   Sickness|
+|“The   biggest   issue   was   the   nausea.”|Simulator   Sickness|
+|“It   was   cool   to   experience   a   new place”|Presence|
+|“Nausea   is   a   deal   breaker”|Simulator   Sickness|
+|“I   feel   disembodied”|Embodiment|
+|“I   feel   like   a   floating   head   in   space”|Embodiment|
+|“I   would   like   to   be   able   to   get   up and   walk   around.”|Physical   Interface|
+|“Reminds   me   of   the   first   time   I experienced   a   touch   interface.”|Physical   Interface|
 
 Table 4.3  Representative statements and coding for participant feedback.
 
@@ -161,6 +189,14 @@ User feedback was coded into four categories, comments about: the physical inter
 In terms of the physical interface, the most prevalent comments seemed to center around the perception of VR goggles as a personal article of clothing. In the Disney study, Pausch et al., allowed for this by having the headset use a removable personal liner (1996).
 
 User comments about what can be referred to as “embodyment” were  comments like “I feel like a floating head”, and “I wish I could interact with the environment by walking” or “so I can’t see my body”, “where are my hands”, imply a desire for a human machine interaction that goes beyond viewing.  Interestingly the head tracking afforded by VR, while entirely new and non-trivial from an engineering standpoint is perceived as transparent.  Head tracking is a natural interaction, like gesture on a smartphone.  This is a credit to its implementation, but it also flies in the face of the notion that simply being able to physically look around a ‘real’ environment is enough interaction design to make VR compelling.
+
+
+||Presence, User 1 (1-5)|Presence, User2 (1-5)|Simulator Sickness User 1 (1-6)| Simulator Sickness User 2 (1-6)|
+|--|---|---|---|---|
+|mean|3.4|2.33|1.54|1.21|
+|stdev|1.34|2.16|0.78|0.58|
+|max|5|5|3 (eye strain, stomach awareness) | 3 (eye strain)|
+|min|2|1|1|1|
 
 Table 4.4 Presence and Simulator Sickness Questionnaire Results (higher score indicates stronger experience of the phenomenon.)
 
@@ -209,3 +245,8 @@ Sutcliffe, A., & Gault, B. (2004). Heuristic evaluation of virtual reality appli
 Usoh, M., Catena, E., Arman, S., & Slater, M. (2000). Using presence questionnaires in reality. Presence, 9(5), 497-503. 
 
 
+
+![](./appendix1.png)
+![](./appendix2.png)
+![](./appendix3.png)
+![](./appendix3b.png)
